@@ -1,4 +1,4 @@
-# task_alexander
+# Alexander Kalinov's Scrapy Task
 
 ### How to run using Docker:
 ```
