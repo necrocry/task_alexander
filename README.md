@@ -1,6 +1,6 @@
 # task_alexander
 
-##How to run using Docker:
+### How to run using Docker:
 ```
 git clone https://github.com/necrocry/task_alexander.git
 cd task_alexander/task
